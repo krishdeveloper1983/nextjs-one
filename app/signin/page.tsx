@@ -58,7 +58,7 @@ export default function SigninPage() {
             <span className="text-lg font-semibold">NewCursor</span>
           </div>
           <p className="mt-4 max-w-md text-white/80">
-            Welcome back! Sign in to continue where you left off.
+            Welcome back here! Sign in to continue where you left off.
           </p>
         </div>
       </div>
